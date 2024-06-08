@@ -136,3 +136,7 @@ C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\obj\Debug\net8.0\api.p
 C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\obj\Debug\net8.0\ref\api.dll
 C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SandrineMang'ong'oMa\OneDrive - THH LLC\Giro\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
