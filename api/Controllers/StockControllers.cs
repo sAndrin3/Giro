@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using api.Dto.Stock;
 using api.Interfaces;
 using api.Helpers;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace api.Controllers
@@ -26,6 +27,7 @@ namespace api.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAll([FromQuery] QueryObject query)
         {
             if(!ModelState.IsValid)
