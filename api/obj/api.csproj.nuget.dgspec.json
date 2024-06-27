@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SandrineMang'ong'oMa\\OneDrive - THH LLC\\Giro\\api\\api.csproj": {}
+    "C:\\Giro\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SandrineMang'ong'oMa\\OneDrive - THH LLC\\Giro\\api\\api.csproj": {
+    "C:\\Giro\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SandrineMang'ong'oMa\\OneDrive - THH LLC\\Giro\\api\\api.csproj",
+        "projectUniqueName": "C:\\Giro\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\SandrineMang'ong'oMa\\OneDrive - THH LLC\\Giro\\api\\api.csproj",
+        "projectPath": "C:\\Giro\\api\\api.csproj",
         "packagesPath": "C:\\Users\\SandrineMang'ong'oMa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SandrineMang'ong'oMa\\OneDrive - THH LLC\\Giro\\api\\obj\\",
+        "outputPath": "C:\\Giro\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SandrineMang'ong'oMa\\AppData\\Roaming\\NuGet\\NuGet.Config",

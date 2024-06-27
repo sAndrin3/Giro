@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Px3n6UdkKtbxF5JScV0V2CxjKqYS5JmCKkxZ4ZdYZJYJEiQ//zuYnYIgsU376EKdWgEhkdBb/pidtSu9JgPrg==",
+  "dgSpecHash": "yu+2UWud2RixrOXzktIhm7nPsiEubq+GP7tZCiGZwJBZ2XdqQ+1PZgCc3I+oz12Hr0rr/UKzGR5z+s905Vv1lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SandrineMang'ong'oMa\\OneDrive - THH LLC\\Giro\\api\\api.csproj",
+  "projectFilePath": "C:\\Giro\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SandrineMang'ong'oMa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SandrineMang'ong'oMa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
